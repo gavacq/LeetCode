@@ -82,3 +82,5 @@ function inorder(root: TreeNode | null, result: number[]) {
     inorder(root.right, result);
 }
 ```
+### Iterative solution
+TODO
