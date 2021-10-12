@@ -66,7 +66,15 @@ function isLarger(num: string, max: string): boolean {
 
 ## Submission #3
 
-Had to look at Discussions to get faster solution. The key is to start looking from the end of the string, since if any odd number is found, the substring starting at index 0 to that odd number will be the largest odd substring in the input string. I was trying to keep track of the max, when I could instantly find the max by looking from the end.
+Had to look at Discussions to get faster solution. The trick is to start looking from the end of the string, since if any odd number is found, the substring starting at index 0 to that odd number will be the largest odd substring in the input string. I was trying to keep track of the max, when I could instantly find the max by looking from the end.
+
+| Name             | Value      |
+| ---------------- | ---------- |
+| Language         | Typescript |
+| Time complexity  | O(n)       |
+| Space complexity | O(1)       |
+| Runtime          | 99 ms      |
+| Memory Usage     | 43 MB      |
 
 ```typescript
 function largestOddNumber(num: string): string {
