@@ -1,5 +1,5 @@
 # 4 Sum II
-
+#twosum #medium 
 ## Takeaways
 - sometimes medium q's feel like they should be easy q's
 - reuse solutions for 2Sum

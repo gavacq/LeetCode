@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e21d15b7db0aa497",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20a6e82fbdee8a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b0ae04832522f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eba856422002b62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb8ef0c796deb22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "afe553a0229b2236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c42148068cf41e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8f8028c77b1419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81aacbaa617522f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c20a6e82fbdee8a1",
+  "lastOpenFiles": [
+    "README.md",
+    "Study plan Dec.22 -Jan. 5.md",
+    "medium/4sum-ii.md",
+    "easy/two-sum.md",
+    "medium/3sum.md",
+    "medium/product-of-array-except-self.md",
+    "Problem solving.md",
+    "Behavioral.md",
+    "Behavioral questions.md",
+    "Coding interview cheat sheet.md"
+  ]
+}

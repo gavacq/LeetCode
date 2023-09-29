@@ -1,4 +1,5 @@
 # Two Sum
+#easy #twosum 
 
 ## Submission #1
 

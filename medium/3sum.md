@@ -1,4 +1,5 @@
 # 3Sum
+#twosum #medium
 
 ## Takeaways
 - Starting a loop at the index after a previous loop is a efficiency trick to prevent using the same element twice
